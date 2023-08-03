@@ -23,7 +23,7 @@ To use this project, ensure that you have Python 3.x and `pip` installed. Then, 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/neural_network.git
+git clone https://github.com/JibrilMamo/neural_network.git
 cd neural_network
 ```
 
