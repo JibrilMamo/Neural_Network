@@ -1,0 +1,63 @@
+# Neural Network - Doodle Trainer and Quick Test
+
+![Neural Network](neural_network.png)
+
+## Overview
+
+This repository contains a Python implementation of a neural network with the Sigmoid activation function and backpropagation training. The code is based on the Python library `numpy` for numerical computations.
+
+## Mini Projects
+
+### Doodle Trainer
+
+The `doodle_trainer.py` script demonstrates how to train the neural network on a doodle dataset. The dataset contains hand-drawn images of different objects such as cars, flowers, and animals. The neural network is trained to classify these doodles into their respective categories.
+
+### Quick Test - Attempt
+
+The `quick_test_attempt.py` script is a quick neural network test to check if the model is learning. It includes a visual aid to understand how the neural network's predictions change during training. The test dataset used here is a simple dataset with two classes that can be linearly separated.
+
+## Installation
+
+To use this project, ensure that you have Python 3.x and `pip` installed. Then, follow these steps:
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/neural_network.git
+cd neural_network
+```
+
+2. Install the dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+## Usage
+
+You can use this neural network for various tasks, such as image classification, pattern recognition, and more. Here's how you can use it:
+
+1. Train the neural network on a dataset:
+
+   Open `doodle_trainer.py` and modify the dataset paths, network architecture, and training parameters to suit your specific task.
+
+2. Run the doodle trainer script:
+
+```bash
+python doodle_trainer.py
+```
+
+3. The script will train the neural network on the doodle dataset and display the training progress and accuracy.
+
+4. Use the trained model for doodle classification:
+
+   After training, you can use the trained neural network to classify new doodles into their respective categories.
+
+5. Run the quick test script:
+
+```bash
+python Attempt.py
+```
+
+6. The Attempt script will run a simple test display the neural network's predictions as they change during training.
+
