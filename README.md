@@ -59,7 +59,4 @@ You can use this neural network for various tasks such as image classification a
 
     This script will run a simple test, displaying the neural network's predictions as they change during training.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
