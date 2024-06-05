@@ -1,7 +1,5 @@
 # Neural Network - Doodle Trainer and Quick Test
 
-![Neural Network](neural_network.png)
-
 ## Overview
 
 This repository contains a Python implementation of a neural network with the Sigmoid activation function and backpropagation training, utilizing the `numpy` library for numerical computations.
